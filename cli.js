@@ -13,7 +13,7 @@ const {argv} = yargs(hideBin(process.argv));
 
 meow(`
 	Usage
-	  $ create-tailwind-rn
+	  $ create-tailwind-rn-io
 `);
 
 const source = `

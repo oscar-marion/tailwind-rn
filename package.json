@@ -1,5 +1,5 @@
 {
-	"name": "tailwind-rn",
+	"name": "tailwind-rn-io",
 	"version": "3.0.0",
 	"description": "Use Tailwind CSS in React Native projects",
 	"license": "MIT",
@@ -9,7 +9,7 @@
 		"email": "me@oscarmarion.dev"
 	},
 	"bin": {
-		"create-tailwind-rn": "cli.js"
+		"create-tailwind-rn-io": "cli.js"
 	},
 	"engines": {
 		"node": ">=10"
